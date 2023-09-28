@@ -527,8 +527,14 @@ video {
 .-left-4 {
   left: -1rem;
 }
+.-top-2 {
+  top: -0.5rem;
+}
 .-top-3 {
   top: -0.75rem;
+}
+.top-0 {
+  top: 0px;
 }
 .top-\[50\%\] {
   top: 50%;
@@ -536,12 +542,21 @@ video {
 .z-10 {
   z-index: 10;
 }
+.col-span-1 {
+  grid-column: span 1 / span 1;
+}
+.col-span-2 {
+  grid-column: span 2 / span 2;
+}
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
 }
 .mb-5 {
   margin-bottom: 1.25rem;
+}
+.mb-8 {
+  margin-bottom: 2rem;
 }
 .mt-10 {
   margin-top: 2.5rem;
@@ -561,6 +576,9 @@ video {
 .block {
   display: block;
 }
+.grid {
+  display: grid;
+}
 .hidden {
   display: none;
 }
@@ -573,6 +591,9 @@ video {
 .max-w-4xl {
   max-width: 56rem;
 }
+.flex-1 {
+  flex: 1 1 0%;
+}
 .basis-1\/12 {
   flex-basis: 8.333333%;
 }
@@ -583,11 +604,26 @@ video {
   --tw-skew-y: -2deg;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
+.grid-cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+.grid-cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.gap-y-3 {
+  row-gap: 0.75rem;
+}
+.gap-y-6 {
+  row-gap: 1.5rem;
+}
 .rounded {
   border-radius: 0.25rem;
 }
 .rounded-xl {
   border-radius: 0.75rem;
+}
+.bg-\[rgba\(47\2c 65\2c 91\2c 0\.3\)\] {
+  background-color: rgba(47,65,91,0.3);
 }
 .bg-gray-800 {
   --tw-bg-opacity: 1;
@@ -596,6 +632,9 @@ video {
 .bg-hat {
   --tw-bg-opacity: 1;
   background-color: rgb(255 107 51 / var(--tw-bg-opacity));
+}
+.p-5 {
+  padding: 1.25rem;
 }
 .p-8 {
   padding: 2rem;
@@ -693,6 +732,15 @@ video {
 .underline {
   text-decoration-line: underline;
 }
+.decoration-sky-500 {
+  text-decoration-color: #0ea5e9;
+}
+.decoration-2 {
+  text-decoration-thickness: 2px;
+}
+.underline-offset-4 {
+  text-underline-offset: 4px;
+}
 .opacity-50 {
   opacity: 0.5;
 }
@@ -717,8 +765,16 @@ video {
     right: -2.5rem;
   }
 
+  .md\:top-0 {
+    top: 0px;
+  }
+
   .md\:top-\[-15px\] {
     top: -15px;
+  }
+
+  .md\:mr-\[2\%\] {
+    margin-right: 2%;
   }
 
   .md\:mt-0 {
@@ -735,6 +791,10 @@ video {
 
   .md\:w-\[120\%\] {
     width: 120%;
+  }
+
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
   .md\:p-0 {
