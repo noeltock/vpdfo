@@ -533,8 +533,14 @@ video {
 .-top-3 {
   top: -0.75rem;
 }
+.right-4 {
+  right: 1rem;
+}
 .top-0 {
   top: 0px;
+}
+.top-5 {
+  top: 1.25rem;
 }
 .top-\[50\%\] {
   top: 50%;
@@ -558,6 +564,9 @@ video {
 .mb-8 {
   margin-bottom: 2rem;
 }
+.mr-2 {
+  margin-right: 0.5rem;
+}
 .mt-10 {
   margin-top: 2.5rem;
 }
@@ -566,6 +575,9 @@ video {
 }
 .mt-3 {
   margin-top: 0.75rem;
+}
+.mt-4 {
+  margin-top: 1rem;
 }
 .mt-5 {
   margin-top: 1.25rem;
@@ -576,6 +588,9 @@ video {
 .block {
   display: block;
 }
+.inline-block {
+  display: inline-block;
+}
 .grid {
   display: grid;
 }
@@ -585,8 +600,14 @@ video {
 .min-h-screen {
   min-height: 100vh;
 }
+.w-16 {
+  width: 4rem;
+}
 .w-full {
   width: 100%;
+}
+.max-w-2xl {
+  max-width: 42rem;
 }
 .max-w-4xl {
   max-width: 56rem;
@@ -619,11 +640,17 @@ video {
 .rounded {
   border-radius: 0.25rem;
 }
+.rounded-2xl {
+  border-radius: 1rem;
+}
 .rounded-xl {
   border-radius: 0.75rem;
 }
 .bg-\[rgba\(47\2c 65\2c 91\2c 0\.3\)\] {
   background-color: rgba(47,65,91,0.3);
+}
+.bg-\[rgba\(47\2c 65\2c 91\2c 0\.8\)\] {
+  background-color: rgba(47,65,91,0.8);
 }
 .bg-gray-800 {
   --tw-bg-opacity: 1;
@@ -632,6 +659,9 @@ video {
 .bg-hat {
   --tw-bg-opacity: 1;
   background-color: rgb(255 107 51 / var(--tw-bg-opacity));
+}
+.p-2 {
+  padding: 0.5rem;
 }
 .p-5 {
   padding: 1.25rem;
@@ -718,6 +748,9 @@ video {
 .leading-\[0\.95\] {
   line-height: 0.95;
 }
+.leading-none {
+  line-height: 1;
+}
 .tracking-wide {
   letter-spacing: 0.025em;
 }
@@ -748,9 +781,20 @@ video {
 .opacity-50 {
   opacity: 0.5;
 }
+.shadow-2xl {
+  --tw-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+  --tw-shadow-colored: 0 25px 50px -12px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
 .hover\:bg-orange-400:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(251 146 60 / var(--tw-bg-opacity));
+}
+@media (min-width: 640px) {
+
+  .sm\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 @media (min-width: 768px) {
 
@@ -766,8 +810,16 @@ video {
     right: -2.5rem;
   }
 
+  .md\:right-8 {
+    right: 2rem;
+  }
+
   .md\:top-0 {
     top: 0px;
+  }
+
+  .md\:top-10 {
+    top: 2.5rem;
   }
 
   .md\:top-\[-15px\] {
