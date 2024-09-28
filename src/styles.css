@@ -654,7 +654,8 @@ video {
 }
 .bg-gray-800 {
   --tw-bg-opacity: 1;
-  background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+  /*background-color: rgb(31 41 55 / var(--tw-bg-opacity));*/
+  background-color: black;
 }
 .bg-hat {
   --tw-bg-opacity: 1;
@@ -698,7 +699,8 @@ video {
   font-family: "Inter", sans-serif;
 }
 .font-staat {
-  font-family: "Staatliches", sans-serif;
+  /*font-family: "Staatliches", sans-serif;*/
+  font-family: 'Muller Next Trial', sans-serif;
 }
 .text-2xl {
   font-size: 1.5rem;
@@ -883,4 +885,16 @@ video {
   .md\:text-\[15rem\] {
     font-size: 15rem;
   }
+}
+
+.gallery-card {
+  /*display: grid;*/
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+
+.gallery-container {
+  /*display: grid;*/
+  /*grid-template-columns: repeat(1, minmax(0, 1fr));*/
+  gap: 8px;
 }
