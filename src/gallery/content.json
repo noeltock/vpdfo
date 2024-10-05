@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "authorName": "OKSANA MEISTER",
+    "pictureName": "the sunrise near the Rivne",
+    "pictureDescription": "The photos is a part of the DUO series, which I worked on in 2023. This work is about finding an alternative time of security.",
+    "pictureSize": "80x55",
+    "picturePreview": "gallery/oksana_meister_1.jpg",
+    "price": "400$",
+    "bio": "Oksana Meister (*1988) is a Ukrainian photographer based in Berlin. She explores such themes as displacement, identity of places, connection of a person to a place. In her photographs, Oksana often combines staged images with found visual metaphors from everyday life. Through this process of abstraction and close observation, she aims to challenge viewers to reconsider their perceptions of the world around them, and to find beauty and meaning in unexpected places. Whether capturing the grandeur of sweeping landscapes or the intimate details of everyday life, Oksana invites viewers to reflect on their own relationships to place, identity, and the power of the individual object to shape our experiences of the world."
+  },
+  {
+    "id": 2,
+    "authorName": "KATYA LESIV",
+    "pictureName": "I am going home to eat mulberries from the tree",
+    "pictureDescription": "",
+    "pictureSize": "20x32, 40x60",
+    "price": "200$, 350$",
+    "picturePreview": "gallery/katya_lesiv_1.jpg",
+    "bio": "Katya Lesiv (b. 1993, Ukraine) is a visual artist and photographer from Ukraine. Currently living and working in Finland. She has graduated with a MA from National Academy of Fine Art and Architecture in Kyiv, 2017. Lesiv works with the topics of cyclicality, physicality, emotional and sensitive experience, and motherhood. Her artistic practice explores the sense of presence through materiality of a variety of disciplines and media, including photography, art book, installation, object, text, graphics and moving image. Performative method, often rooted in routine rituals, is a way to encapsulate and share intimate experiences while safeguarding personal space."
+  },
+  {
+    "id": 3,
+    "authorName": "SERHII MELNITCHENKO",
+    "pictureName": "Tattoos of war",
+    "pictureDescription": "The «Tattoos of war» project is about layers. About collective memory. About reflections. About feelings and emotions. About what will remain with us forever. Everyone has their own, but we all talk about the same thing. About collective pain.",
+    "pictureSize": "80x65",
+    "picturePreview": "gallery/serhii_melnitchenko_1.jpg",
+    "price": "500$",
+    "bio": "Conceptual and art photographer with 15 years of experience. The first Ukrainian photographer to win the international award 'Leica Oskar Barnack Award Newcomer 2017.' In 2018, at the age of 26, he founded the school of conceptual and art photography 'MYPH.' Participant of more than 150 personal and group exhibitions, fairs and festivals around the world. Organizer and curator of more than 40 projects and exhibitions with the works of students of the 'MYPH' school."
+  },
+  {
+    "id": 4,
+    "authorName": "SEMEN KUCHVARA",
+    "pictureName": "The sun of Ukraine rises in Donbas",
+    "pictureDescription": "",
+    "pictureSize": "60x40",
+    "picturePreview": "gallery/semen_kuchvara_1.jpg",
+    "price": "300$",
+    "bio": "Semen Kuchvara is a photography artist originally from Lviv, Ukraine. Before the full-scale war, his work focused on youth culture and celebration of life through sexuality and freedom of self-expression. Now, he is in the military, defending Ukraine from Russian aggression. In 2020, he completed training at the conceptual photography course by Roman Pyatkovka."
+  },
+  {
+    "id": 5,
+    "authorName": "OLIA KOVAL",
+    "pictureName": "Underground",
+    "pictureDescription": "",
+    "pictureSize": "30x30",
+    "picturePreview": "gallery/olia_koval_1.jpg",
+    "price": "150$",
+    "bio": "Olia Koval, born in 2001 in Chernihiv, is a photographer and installation artist. She graduated from the Cinematography Department of the Kyiv National University of Theater, Film, and Television. Her artistic practice revolves around documenting reality through imaginative reinterpretation, often using analog photographic tools."
+  },
+  {
+    "id": 6,
+    "authorName": "DIMA TOLKACHOV",
+    "pictureName": "a chair",
+    "pictureDescription": "",
+    "pictureSize": "35x50",
+    "picturePreview": "gallery/dima_tolkachov_1.jpg",
+    "price": "300$",
+    "bio": "Dima Tolkachov was born in 1989 in Mala Vyska. He works primarily with photography as material for building conceptual typologies. He also experiments with digital collages, objects, and videos. Since the full-scale invasion of Ukraine, he has focused on exploring the symptoms of war."
+  },
+  {
+    "id": 7,
+    "authorName": "NAZAR FURYK",
+    "pictureName": "Untitled from the series Landmark",
+    "pictureDescription": "Ukrainian forest. A place of fierce battles.",
+    "pictureSize": "30x40",
+    "picturePreview": "gallery/nazar_furyk_1.jpg",
+    "price": "200$",
+    "bio": "Nazar Furyk is an artist and independent photographer based in Kyiv, Ukraine. His work often focuses on the combination of everyday objects and natural environments, now documenting the brutal effects of war on people and spaces."
+  },
+  {
+    "id": 8,
+    "authorName": "KRIS VOITKIV",
+    "pictureName": "Sem. Tired but strong",
+    "pictureDescription": "",
+    "pictureSize": "35x50",
+    "picturePreview": "gallery/kris_voitkiv_1.jpg",
+    "price": "300$",
+    "bio": ""
+  },
+  {
+    "id": 9,
+    "authorName": "DARIA SVERTILOVA",
+    "pictureName": "flowers at home",
+    "pictureDescription": "",
+    "pictureSize": "40x52",
+    "picturePreview": "gallery/daria_svertilova_1.jpg",
+    "price": "400$",
+    "bio": "Daria Svertilova, born in 1996 in Odesa, Ukraine, is a lens-based artist currently living in Paris and Kyiv. She focuses on youth and cultural, social, and political contexts in which young people live."
+  },
+  {
+    "id": 10,
+    "authorName": "Aria Shahrokhshahi",
+    "pictureName": "from Sketchbook Volume 2, Ukraine 2024",
+    "pictureDescription": "",
+    "pictureSize": "75x60",
+    "picturePreview": "https://drive.google.com/drive/folders/19xzYhqzw6643LSjdO7mNORso4mk9Qp1S",
+    "price": "500$",
+    "bio": "Aria Shahrokhshahi is a British-Iranian photographer and filmmaker. Although interested in incorporating multimedia into his work, Shahrokhshahi’s work is documentary at its core, focusing on a variety of diverse communities and the way people interact inside them. Social structures - and more broadly, the human condition – fascinate Shahrokhshahi, as do the relationships and power dynamics that inform our existence. Photography offers him a window of understanding into these communities and a way for him to explore the world around him. His fervour for exploration has led him to complete projects across the globe, including in Gambia, Ukraine, Iran, and in the UK where he lives. In the future, Shahrokhshahi is looking to further his work in his home country Iran and keep his practice within long-form bodies of work that readily display his creative focus."
+  },
+  {
+    "id": 11,
+    "authorName": "Vadim Khudoliy",
+    "pictureName": "absolute spontaneity 2023",
+    "pictureDescription": "",
+    "pictureSize": "64x34",
+    "picturePreview": "https://drive.google.com/drive/folders/16lZQcLuCnYcugYE_bjEF9QIIPoMt83MJ",
+    "price": "500$",
+    "bio": "Born in Simferopol, Crimea. Currently works and lives in Kyiv, Ukraine. Graduated from the School of Art & Architecture Academy in Crimea, and has worked in the film production industry since 2008. In 2006, I moved to Kyiv to begin a career in journalism. Personal multidisciplinary art projects include visual art, photography, and auteur cinema. In 2016, published my first photography anthology, entitled “DREAM” dedicated to experiencing the annexation of Crimea and the loss of home. In 2021, photobook 'ESTRANGEMENT' was published. Since 2018, has been collaborating with the duo Yarema and Himey as a color corrector and worked on documentaries and short films. In 2022, participated in foreign charity auctions to raise money for Ukraine. Currently working on new books."
+  },
+  {
+    "id": 12,
+    "authorName": "Vic Bakin",
+    "pictureName": "Desna 2023",
+    "pictureDescription": "",
+    "pictureSize": "60x85",
+    "picturePreview": "https://drive.google.com/drive/folders/14rZxoOOPB11Z58KYy8S3gnPQBNqjpgu-",
+    "price": "500$",
+    "bio": "Vic Bakin is a self-educated Ukrainian photographer. Raised in the west of Ukraine, for the last ten years he has been based in Kyiv. In his work, Bakin is focused on documenting Ukraine’s youth. Recently, his focus has shifted to the themes of war in Ukraine. His new series 'Epitome' (2022) is the selection of ‘The Ones to Watch’ by the British Journal of Photography and the winner of the LensCulture photography awards. In 2023, Vic Bakin received a grant from the IWM Institute for Human Sciences and is a selectee of the Copenhagen Photo Festival 2024. His first monograph book will be published by Photo Void in 2024."
+  },
+  {
+    "id": 13,
+    "authorName": "Mariia Rusinkevych",
+    "pictureName": "No name 2022",
+    "pictureDescription": "",
+    "pictureSize": "32x40",
+    "picturePreview": "https://drive.google.com/drive/folders/1uOByuRB-y_0wkiV_wm6dX91z4NjmgjCM",
+    "price": "150$",
+    "bio": ""
+  },
+  {
+    "id": 14,
+    "authorName": "Ira Lupu",
+    "pictureName": "no name/без назви September 2024",
+    "pictureDescription": "Khrystyna and Evhen in Vasilkiv Carpathians",
+    "pictureSize": "70x47",
+    "picturePreview": "https://drive.google.com/drive/folders/1anB1b1LeFgCL14wa8vh22btpUX-itAyp",
+    "price": "500$",
+    "bio": "Ira Lupu is a photographer and visual artist based between Ukraine and New York City. She graduated from the International Center of Photography (NYC), and Viktor Marushchenko’s School of Photography (Kyiv)."
+  },
+  {
+    "id": 15,
+    "authorName": "Oleksandr Rudovskyi",
+    "pictureName": "At night, alone…/Вночі, один…",
+    "pictureDescription": "From the series 'Oh you, the devious world…/Мире лукавий…' 2023",
+    "pictureSize": "",
+    "picturePreview": "https://drive.google.com/drive/folders/1GjlJ1myfJEgiEOti4xCa4qG4vcY5jYja",
+    "price": "300$",
+    "bio": "My name is Rudovskyi Oleksandr Oleksandrovych. I was born in Kyiv in 2001. All my life I live in my beloved city. I studied social work at the Kyiv-Mohyla Academy and Drahomanov University, but I do not yet have a professional art education. My practice started spontaneously but later grew into a more serious and conscious approach. Most of my works originate from and are concentrated around my own experience, which I try to rethink and bring to the universal, human level. I keep the principle 'from specific to general'. I try not to limit myself to the framework of my medium and experiment."
+  }
+]
