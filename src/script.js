@@ -71,13 +71,13 @@ function createGalleryCard(item) {
 
     // Step 4: Add event listener to redirect when clicked
     galleryDiv.addEventListener('click', () => {
-        window.location.href = `https://vpdfo.org/gallery/${item.id}`;
+        // window.location.href = `https://vpdfo.org/gallery/${item.id}`;
     });
 
     // Step 5: Redirect to a static page when clicking the buy button
     buyButton.addEventListener('click', (event) => {
         event.stopPropagation(); // Stop event bubbling to the parent div
-        window.location.href = 'https://www.crowdfunder.co.uk/p/ukraine-can-win-vpdfo-2024';
+        // window.location.href = 'https://www.crowdfunder.co.uk/p/ukraine-can-win-vpdfo-2024';
     });
 
     // Append the button to buttonDiv
