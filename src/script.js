@@ -39,7 +39,7 @@ function createGalleryCard(item) {
     const price = item.price
     // const image = item.image
 
-    const image = "gallery/" + item.id + ".JPG"
+    const image = "gallery/" + item.id + ".jpg"
     // const image = "gallery/2.JPG"
 
 
@@ -71,7 +71,7 @@ function createGalleryCard(item) {
 
     // Step 4: Add event listener to redirect when clicked
     galleryDiv.addEventListener('click', () => {
-        // window.location.href = `https://vpdfo.org/gallery/${item.id}`;
+        window.location.href = `https://vpdfo.org/gallery.html?imageId=${item.id}`;
     });
 
     // Step 5: Redirect to a static page when clicking the buy button

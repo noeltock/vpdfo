@@ -902,6 +902,7 @@ video {
   .gallery-item {
     overflow: hidden;
     padding-bottom: 12px;
+    cursor: pointer;
   }
 }
 
