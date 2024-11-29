@@ -26,18 +26,8 @@
     "pictureDescription": "The «Tattoos of war» project is about layers. About collective memory. About reflections. About feelings and emotions. About what will remain with us forever. Everyone has their own, but we all talk about the same thing. About collective pain.",
     "pictureSize": "80x65",
     "picturePreview": "gallery/serhii_melnitchenko_1.jpg",
-    "price": "500$",
+    "price": "600$",
     "bio": "Conceptual and art photographer with 15 years of experience. The first Ukrainian photographer to win the international award 'Leica Oskar Barnack Award Newcomer 2017.' In 2018, at the age of 26, he founded the school of conceptual and art photography 'MYPH.' Participant of more than 150 personal and group exhibitions, fairs and festivals around the world. Organizer and curator of more than 40 projects and exhibitions with the works of students of the 'MYPH' school."
-  },
-  {
-    "id": 4,
-    "authorName": "SEMEN KUCHVARA",
-    "pictureName": "The sun of Ukraine rises in Donbas",
-    "pictureDescription": "",
-    "pictureSize": "60x40",
-    "picturePreview": "gallery/semen_kuchvara_1.jpg",
-    "price": "300$",
-    "bio": "Semen Kuchvara is a photography artist originally from Lviv, Ukraine. Before the full-scale war, his work focused on youth culture and celebration of life through sexuality and freedom of self-expression. Now, he is in the military, defending Ukraine from Russian aggression. In 2020, he completed training at the conceptual photography course by Roman Pyatkovka."
   },
   {
     "id": 5,
@@ -46,7 +36,7 @@
     "pictureDescription": "",
     "pictureSize": "30x30",
     "picturePreview": "gallery/olia_koval_1.jpg",
-    "price": "150$",
+    "price": "150$, 250$",
     "bio": "Olia Koval, born in 2001 in Chernihiv, is a photographer and installation artist. She graduated from the Cinematography Department of the Kyiv National University of Theater, Film, and Television. Her artistic practice revolves around documenting reality through imaginative reinterpretation, often using analog photographic tools."
   },
   {
@@ -76,7 +66,7 @@
     "pictureDescription": "",
     "pictureSize": "35x50",
     "picturePreview": "gallery/kris_voitkiv_1.jpg",
-    "price": "300$",
+    "price": "400$",
     "bio": ""
   },
   {
@@ -96,7 +86,7 @@
     "pictureDescription": "",
     "pictureSize": "75x60",
     "picturePreview": "https://drive.google.com/drive/folders/19xzYhqzw6643LSjdO7mNORso4mk9Qp1S",
-    "price": "500$",
+    "price": "600$",
     "bio": "Aria Shahrokhshahi is a British-Iranian photographer and filmmaker. Although interested in incorporating multimedia into his work, Shahrokhshahi’s work is documentary at its core, focusing on a variety of diverse communities and the way people interact inside them. Social structures - and more broadly, the human condition – fascinate Shahrokhshahi, as do the relationships and power dynamics that inform our existence. Photography offers him a window of understanding into these communities and a way for him to explore the world around him. His fervour for exploration has led him to complete projects across the globe, including in Gambia, Ukraine, Iran, and in the UK where he lives. In the future, Shahrokhshahi is looking to further his work in his home country Iran and keep his practice within long-form bodies of work that readily display his creative focus."
   },
   {
@@ -148,5 +138,25 @@
     "picturePreview": "https://drive.google.com/drive/folders/1GjlJ1myfJEgiEOti4xCa4qG4vcY5jYja",
     "price": "300$",
     "bio": "My name is Rudovskyi Oleksandr Oleksandrovych. I was born in Kyiv in 2001. All my life I live in my beloved city. I studied social work at the Kyiv-Mohyla Academy and Drahomanov University, but I do not yet have a professional art education. My practice started spontaneously but later grew into a more serious and conscious approach. Most of my works originate from and are concentrated around my own experience, which I try to rethink and bring to the universal, human level. I keep the principle 'from specific to general'. I try not to limit myself to the framework of my medium and experiment."
+  },
+  {
+    "id": 17,
+    "authorName": "Chris Occhicone",
+    "pictureName": "And The Man, Chasiv Yar",
+    "pictureDescription": "This striking portrait by Chris Occhicone captures the raw determination of a Ukrainian soldier in Chasiv Yar. With a bandaged head, painted face, and a t-shirt declaring “Доброго вечора, ми з України” (Good evening, we are from Ukraine), the image speaks volumes about strength, identity, and resilience amid adversity. The soldier’s unflinching gaze invites viewers to reflect on the human cost of conflict and the enduring spirit of those who defend their homeland.",
+    "pictureSize": "",
+    "picturePreview": "https://drive.google.com/drive/folders/1GjlJ1myfJEgiEOti4xCa4qG4vcY5jYja",
+    "price": "150$",
+    "bio": ""
+  },
+  {
+    "id": 18,
+    "authorName": "Chris Occhicone",
+    "pictureName": "Life and Death in Chasiv Yar",
+    "pictureDescription": "This powerful artwork captures military medics in Chasiv Yar, Ukraine, as they work tirelessly to save lives in the midst of war. The intimate setting, adorned with children’s drawings, contrasts the harsh realities of conflict with human resilience and hope. A moving tribute to bravery and sacrifice, this piece honors those who stand strong in the face of adversity.",
+    "pictureSize": "",
+    "picturePreview": "https://drive.google.com/drive/folders/1GjlJ1myfJEgiEOti4xCa4qG4vcY5jYja",
+    "price": "500$",
+    "bio": ""
   }
 ]
