@@ -45,10 +45,16 @@ function createGalleryCard(item) {
     const galleryDiv = document.createElement('div');
     galleryDiv.classList.add('gallery-item', 'relative');
 
+
     const img = document.createElement('img');
-    img.classList.add('protect-image');
+    img.classList.add('protect-image','gallery-image');
     img.src = image;
-    galleryDiv.appendChild(img); // Сначала добавляем изображение
+//    galleryDiv.appendChild(img); // Сначала добавляем изображение
+
+    const imageContainerDiv = document.createElement('div');
+    imageContainerDiv.classList.add('image-container');
+    imageContainerDiv.appendChild(img);
+    galleryDiv.appendChild(imageContainerDiv);
 
     const descriptionDiv = document.createElement('div');
     descriptionDiv.classList.add('bg-[rgba(0,0,0,0.8)]', 'text-center', 'text-hat', 'p-2', 'pb-5', 'leading-6');

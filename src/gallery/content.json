@@ -10,11 +10,21 @@
     "bio": "Oksana Meister (*1988) is a Ukrainian photographer based in Berlin. She explores such themes as displacement, identity of places, connection of a person to a place. In her photographs, Oksana often combines staged images with found visual metaphors from everyday life. Through this process of abstraction and close observation, she aims to challenge viewers to reconsider their perceptions of the world around them, and to find beauty and meaning in unexpected places. Whether capturing the grandeur of sweeping landscapes or the intimate details of everyday life, Oksana invites viewers to reflect on their own relationships to place, identity, and the power of the individual object to shape our experiences of the world."
   },
   {
-    "id": 2,
+    "id": 20,
     "authorName": "KATYA LESIV",
     "pictureName": "I am going home to eat mulberries from the tree",
     "pictureDescription": "",
-    "pictureSize": "20x32, 40x60",
+    "pictureSize": "40x60",
+    "price": "200$, 350$",
+    "picturePreview": "gallery/katya_lesiv_1.jpg",
+    "bio": "Katya Lesiv (b. 1993, Ukraine) is a visual artist and photographer from Ukraine. Currently living and working in Finland. She has graduated with a MA from National Academy of Fine Art and Architecture in Kyiv, 2017. Lesiv works with the topics of cyclicality, physicality, emotional and sensitive experience, and motherhood. Her artistic practice explores the sense of presence through materiality of a variety of disciplines and media, including photography, art book, installation, object, text, graphics and moving image. Performative method, often rooted in routine rituals, is a way to encapsulate and share intimate experiences while safeguarding personal space."
+  },
+  {
+    "id": 21,
+    "authorName": "KATYA LESIV",
+    "pictureName": "I am going home to eat mulberries from the tree",
+    "pictureDescription": "",
+    "pictureSize": "20x32",
     "price": "200$, 350$",
     "picturePreview": "gallery/katya_lesiv_1.jpg",
     "bio": "Katya Lesiv (b. 1993, Ukraine) is a visual artist and photographer from Ukraine. Currently living and working in Finland. She has graduated with a MA from National Academy of Fine Art and Architecture in Kyiv, 2017. Lesiv works with the topics of cyclicality, physicality, emotional and sensitive experience, and motherhood. Her artistic practice explores the sense of presence through materiality of a variety of disciplines and media, including photography, art book, installation, object, text, graphics and moving image. Performative method, often rooted in routine rituals, is a way to encapsulate and share intimate experiences while safeguarding personal space."
@@ -30,19 +40,29 @@
     "bio": "Conceptual and art photographer with 15 years of experience. The first Ukrainian photographer to win the international award 'Leica Oskar Barnack Award Newcomer 2017.' In 2018, at the age of 26, he founded the school of conceptual and art photography 'MYPH.' Participant of more than 150 personal and group exhibitions, fairs and festivals around the world. Organizer and curator of more than 40 projects and exhibitions with the works of students of the 'MYPH' school."
   },
   {
-    "id": 5,
+    "id": 22,
     "authorName": "OLIA KOVAL",
-    "pictureName": "Underground",
+    "pictureName": "Underground, 2023",
     "pictureDescription": "",
     "pictureSize": "30x30",
     "picturePreview": "gallery/olia_koval_1.jpg",
-    "price": "150$, 250$",
+    "price": "150$",
     "bio": "Olia Koval, born in 2001 in Chernihiv, is a photographer and installation artist. She graduated from the Cinematography Department of the Kyiv National University of Theater, Film, and Television. Her artistic practice revolves around documenting reality through imaginative reinterpretation, often using analog photographic tools."
   },
   {
-    "id": 6,
+    "id": 23,
+    "authorName": "OLIA KOVAL",
+    "pictureName": "“Breaks like glass” 2024”",
+    "pictureDescription": "",
+    "pictureSize": "40x40",
+    "picturePreview": "gallery/olia_koval_1.jpg",
+    "price": "250$",
+    "bio": "Olia Koval, born in 2001 in Chernihiv, is a photographer and installation artist. She graduated from the Cinematography Department of the Kyiv National University of Theater, Film, and Television. Her artistic practice revolves around documenting reality through imaginative reinterpretation, often using analog photographic tools."
+  },
+  {
+    "id": 24,
     "authorName": "DIMA TOLKACHOV",
-    "pictureName": "a chair",
+    "pictureName": "“a chair” Kyiv 2022",
     "pictureDescription": "",
     "pictureSize": "35x50",
     "picturePreview": "gallery/dima_tolkachov_1.jpg",
@@ -50,9 +70,29 @@
     "bio": "Dima Tolkachov was born in 1989 in Mala Vyska. He works primarily with photography as material for building conceptual typologies. He also experiments with digital collages, objects, and videos. Since the full-scale invasion of Ukraine, he has focused on exploring the symptoms of war."
   },
   {
-    "id": 7,
+    "id": 25,
+    "authorName": "DIMA TOLKACHOV",
+    "pictureName": "“out of hiding” Kyiv 2023",
+    "pictureDescription": "",
+    "pictureSize": "15х22",
+    "picturePreview": "gallery/dima_tolkachov_1.jpg",
+    "price": "150",
+    "bio": "Dima Tolkachov was born in 1989 in Mala Vyska. He works primarily with photography as material for building conceptual typologies. He also experiments with digital collages, objects, and videos. Since the full-scale invasion of Ukraine, he has focused on exploring the symptoms of war."
+  },
+  {
+    "id": 26,
     "authorName": "NAZAR FURYK",
-    "pictureName": "Untitled from the series Landmark",
+    "pictureName": "untitled / from the series Landmark / Ukrainian forest. A place of fierce battles / Kyiv region / 2022",
+    "pictureDescription": "Ukrainian forest. A place of fierce battles.",
+    "pictureSize": "30x40",
+    "picturePreview": "gallery/nazar_furyk_1.jpg",
+    "price": "200$",
+    "bio": "Nazar Furyk is an artist and independent photographer based in Kyiv, Ukraine. His work often focuses on the combination of everyday objects and natural environments, now documenting the brutal effects of war on people and spaces."
+  },
+  {
+    "id": 27,
+    "authorName": "NAZAR FURYK",
+    "pictureName": "untitled / from the series Landmark / Ukrainian forest. A place of fierce battles / Kyiv region / 2023",
     "pictureDescription": "Ukrainian forest. A place of fierce battles.",
     "pictureSize": "30x40",
     "picturePreview": "gallery/nazar_furyk_1.jpg",

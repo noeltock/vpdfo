@@ -1078,3 +1078,12 @@ video {
     line-height: 1;
   }
 }
+
+.image-container{
+  display: flex;
+  justify-content: center;
+}
+
+.gallery-image{
+  height: 200px;
+}
