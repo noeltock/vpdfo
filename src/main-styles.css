@@ -1087,3 +1087,7 @@ video {
 .gallery-image{
   height: 200px;
 }
+
+.italic {
+  font-style: italic;
+}

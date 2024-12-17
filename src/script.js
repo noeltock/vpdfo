@@ -58,7 +58,7 @@ function createGalleryCard(item) {
 
     const descriptionDiv = document.createElement('div');
     descriptionDiv.classList.add('bg-[rgba(0,0,0,0.8)]', 'text-center', 'text-hat', 'p-2', 'pb-5', 'leading-6');
-    descriptionDiv.innerHTML = `<strong>${title}</strong><br />${pictureSize}<br />${price}`;
+    descriptionDiv.innerHTML = `<strong>${title}</strong><br /><p class="italic">${authorName}</p>${pictureSize}<br />${price}`;
 
     galleryDiv.appendChild(descriptionDiv); // Добавляем описание и кнопки под изображением
 
